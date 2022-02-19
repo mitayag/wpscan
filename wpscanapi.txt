@@ -1,0 +1,1 @@
+	wpscan --api-token 84kI2Jcrv2Klg1kLBciI9LRrAWlPxwmmsAZA6AOIUPU --url http://10.10.10.16:8080/CEH --plugins-detection aggressive --enumerate vp
